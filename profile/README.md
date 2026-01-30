@@ -56,7 +56,7 @@ All infrastructure provisioned using Terraform, including:
 
 ## 🌠 Data Flow Overview
 A clear visualization of request handling, infrastructure interactions, and data persistence across the cloud environment.
-## 🌠 Data Flow Voyage
+![Data Flow Diagram](DataFlow.png)
 
 
 
@@ -81,6 +81,6 @@ Released under the **MIT License** — see `LICENSE` for details.
 ## 🌐 Connect With Me
 
 📧 Email: chonnad.r@northeastern.edu  
-💼 LinkedIn: https://www.linkedin.com/in/revan-somshekhar-chonnad  
-💻 GitHub: https://github.com/revan1010  
+💼 LinkedIn:  [https://www.linkedin.com/in/revanchonnad/ ](https://www.linkedin.com/in/revanchonnad/)
+💻 GitHub:[ https://github.com/revan1010  ](https://github.com/revan1010)
 ****
