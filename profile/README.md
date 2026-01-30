@@ -13,6 +13,8 @@ Get ready to dive into the systems, infrastructure, and automation behind produc
 - Thoughtfully structured networking, compute, and security layers
 - High availability and fault tolerance baked in from day one
 
+![Cloud Architecture Diagram](cloud_arch.png)
+
 ### 🌩️ Engineering in Action
 
 **Web Application**
@@ -54,6 +56,9 @@ All infrastructure provisioned using Terraform, including:
 
 ## 🌠 Data Flow Overview
 A clear visualization of request handling, infrastructure interactions, and data persistence across the cloud environment.
+## 🌠 Data Flow Voyage
+
+
 
 ---
 
